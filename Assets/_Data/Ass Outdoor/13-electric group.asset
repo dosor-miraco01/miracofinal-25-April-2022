@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba8857f680ae3ab449b3374bb4bdbd94, type: 3}
+  m_Name: 13-electric group
+  m_EditorClassIdentifier: 
+  orderNumber: 13
+  title: " \u0635\u0627\u062C\u0629 \u0645\u062C\u0645\u0648\u0639\u0629 \u0627\u0644\u0643\u0647\u0631\u0628\u0627\u0621 "
+  longTitle: "\u062A\u0631\u0643\u064A\u0628 \u0635\u0627\u062C\u0629 \u0645\u062C\u0645\u0648\u0639\u0629
+    \u0627\u0644\u0643\u0647\u0631\u0628\u0627\u0621 "
+  icon: {fileID: 21300000, guid: 1a30e56c1dedffd43a705216b7b9f2e0, type: 3}
+  pages: []

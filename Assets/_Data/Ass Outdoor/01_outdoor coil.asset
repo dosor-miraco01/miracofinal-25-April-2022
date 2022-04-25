@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba8857f680ae3ab449b3374bb4bdbd94, type: 3}
+  m_Name: 01_outdoor coil
+  m_EditorClassIdentifier: 
+  orderNumber: 1
+  title: " \u0627\u0644\u0645\u0628\u0627\u062F\u0644 \u0627\u0644\u062D\u0631\u0627\u0631\u064A "
+  longTitle: "\u062A\u0631\u0643\u064A\u0628 \u0627\u0644\u0645\u0628\u0627\u062F\u0644
+    \u0627\u0644\u062D\u0631\u0627\u0631\u064A \u0644\u0644\u0648\u062D\u062F\u0629
+    \u0627\u0644\u062E\u0627\u0631\u062C\u064A\u0629 (\u0627\u0644\u0643\u0648\u064A\u0644)"
+  icon: {fileID: 21300000, guid: 2883125bb15364c439881ea2ccbcac7a, type: 3}
+  pages: []

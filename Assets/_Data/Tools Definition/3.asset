@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba8857f680ae3ab449b3374bb4bdbd94, type: 3}
+  m_Name: 3
+  m_EditorClassIdentifier: 
+  orderNumber: 3
+  title: "\u0628\u0646\u0633\u0647 \u0628\u0628\u0648\u0632 "
+  longTitle: 
+  icon: {fileID: 21300000, guid: 28cb114895be27c4186540991e4e196c, type: 3}
+  pages:
+  - content: "\u0647\u064A \u0645\u0639\u062F\u0629 \u0628\u064A\u062F \u0645\u0639\u0632\u0648\u0644\u0629
+      \u0644\u0647\u0627 \u0627\u0633\u062A\u062E\u062F\u0627\u0645\u0627\u062A \u0645\u062E\u062A\u0644\u0641\u0629
+      \u0648\u0647\u064A \u0646\u0641\u0633 \u0627\u0633\u062A\u062E\u062F\u0627\u0645\u0627\u062A
+      \u0627\u0644\u0628\u0646\u0633\u0647 \u0627\u0644\u0639\u0627\u062F\u064A\u0629
+      \u0648\u0644\u0643\u0646 \u0644\u0647\u0627 \u0646\u0647\u0627\u064A\u0629
+      \u0623\u0631\u0641\u0639 \u0648\u0623\u0637\u0648\u0644 \u0644\u0627\u0633\u062A\u062E\u062F\u0627\u0645\u0647\u0627
+      \u0641\u064A \u0627\u0644\u0623\u0645\u0627\u0643\u0646 \u0627\u0644\u0623\u0636\u064A\u0642"
+    sound: {fileID: 8300000, guid: 5799f6134ee38054085a5c6823630244, type: 3}
+  - content: "\u0645\u062B\u0644 \u0641\u0643 \u0627\u0644\u062A\u0631\u0627\u0645\u0644
+      \u0645\u0646 \u062F\u0627\u062E\u0644 \u0648\u062D\u062F\u0629 \u0627\u0644\u062A\u062D\u0643\u0645
+      \u0627\u0644\u0625\u0644\u0643\u062A\u0631\u0648\u0646\u064A\u0629 \u0627\u0644\u0643\u0627\u0631\u062A\u0629."
+    sound: {fileID: 8300000, guid: b542265ab0bdc6f40931202320985c7b, type: 3}

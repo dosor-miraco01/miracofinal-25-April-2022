@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba8857f680ae3ab449b3374bb4bdbd94, type: 3}
+  m_Name: 3
+  m_EditorClassIdentifier: 
+  orderNumber: 4
+  title: "\u0641\u064A \u0648\u0636\u0639 \u0627\u0644\u062A\u0628\u0631\u064A\u062F "
+  longTitle: "\u0623\u0648\u0644\u0627: \u0641\u064A \u0648\u0636\u0639 \u0627\u0644\u062A\u0628\u0631\u064A\u062F "
+  icon: {fileID: 21300000, guid: fe01cb47517df4a45ab4bcc59c95c254, type: 3}
+  pages: []

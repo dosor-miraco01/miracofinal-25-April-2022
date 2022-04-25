@@ -1,0 +1,125 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 14a1d476e6762c8488798a5b8768eb95, type: 3}
+  m_Name: problems_data
+  m_EditorClassIdentifier: 
+  logicSceneName: 03 Problem
+  items:
+  - problemId: 101
+    title: "\u062C\u0647\u0627\u0632 \u0627\u0644\u062A\u0643\u064A\u064A\u0641 \u0644\u0627
+      \u064A\u0639\u0645\u0644 \u0646\u0647\u0627\u0626\u064A\u0627"
+    problemReportTitle: {fileID: 21300000, guid: 437bc92c020bb5d40881237dac588ba7, type: 3}
+    casesCount: 10
+    sceneName: HW-F1S01-UI
+    isTitleOnly: 0
+  - problemId: 201
+    title: "\u0627\u0644\u0648\u062D\u062F\u0629 \u0627\u0644\u062E\u0627\u0631\u062C\u064A\u0629
+      \u0644\u062C\u0647\u0627\u0632 \u0627\u0644\u062A\u0643\u064A\u064A\u0641 \u0644\u0627
+      \u062A\u0639\u0645\u0644 (\u0641\u064A \u0648\u0636\u0639 \u0627\u0644\u062A\u0628\u0631\u064A\u062F)"
+    problemReportTitle: {fileID: 21300000, guid: f4724e53bdbba5e46a9e347ca7457404, type: 3}
+    casesCount: 8
+    sceneName: HW-F2S01-UI
+    isTitleOnly: 0
+  - problemId: 301
+    title: "\u062A\u0633\u0627\u0642\u0637 \u0645\u064A\u0627\u0647 \u0645\u0646
+      \u0627\u0644\u0648\u062D\u062F\u0629 \u0627\u0644\u062F\u0627\u062E\u0644\u064A\u0629
+      \u0644\u062C\u0647\u0627\u0632 \u0627\u0644\u062A\u0643\u064A\u064A\u0641 \u062F\u0627\u062E\u0644
+      \u0627\u0644\u063A\u0631\u0641\u0629"
+    problemReportTitle: {fileID: 21300000, guid: 1b0614217d50c81418aa98e839f62808, type: 3}
+    casesCount: 10
+    sceneName: HW-F3S01-UI
+    isTitleOnly: 0
+  - problemId: 400
+    title: "\u062C\u0647\u0627\u0632 \u0627\u0644\u062A\u0643\u064A\u064A\u0641 \u0644\u0627
+      \u064A\u0628\u0631\u062F/\u0627\u0644\u062A\u0628\u0631\u064A\u062F \u0636\u0639\u064A\u0641"
+    problemReportTitle: {fileID: 21300000, guid: 5ea561a6e73c0e8409d68341f7488969, type: 3}
+    casesCount: 0
+    sceneName: 
+    isTitleOnly: 1
+  - problemId: 401
+    title: "\u0627\u0644\u062A\u062D\u0642\u0642 \u0645\u0646 \u0648\u0636\u0639
+      \u062A\u0634\u063A\u064A\u0644 \u0627\u0644\u062C\u0647\u0627\u0632 \u0639\u0644\u0649
+      \u0648\u0636\u0639 \u0627\u0644\u062A\u0628\u0631\u064A\u062F \u0648\u0636\u0628\u0637
+      \u062F\u0631\u062C\u0629 \u0627\u0644\u062D\u0631\u0627\u0631\u0629 \u0627\u0644\u0645\u0637\u0644\u0648\u0628\u0629 "
+    problemReportTitle: {fileID: 21300000, guid: d7d0ef0f69d50c5469b66daa8248b342, type: 3}
+    casesCount: 3
+    sceneName: HW-F4S01-UI
+    isTitleOnly: 0
+  - problemId: 402
+    title: "\u0627\u0644\u062A\u062D\u0642\u0642 \u0645\u0646 \u0635\u064A\u0627\u0646\u0629
+      \u0648\u0646\u0638\u0627\u0641\u0629 \u0627\u0644\u0648\u062D\u062F\u0629 \u0627\u0644\u062F\u0627\u062E\u0644\u064A\u0629
+      \u0648\u0627\u0644\u062E\u0627\u0631\u062C\u064A\u0629"
+    problemReportTitle: {fileID: 21300000, guid: 0cefac40d31e9cc4292149f3ded329fe, type: 3}
+    casesCount: 4
+    sceneName: HW-F4S02-UI
+    isTitleOnly: 0
+  - problemId: 403
+    title: " \u0627\u0644\u062A\u062D\u0642\u0642 \u0645\u0646 \u0648\u0636\u0639
+      \u062A\u0631\u0643\u064A\u0628 \u0627\u0644\u0648\u062D\u062F\u0629 \u0627\u0644\u062F\u0627\u062E\u0644\u064A\u0629"
+    problemReportTitle: {fileID: 21300000, guid: b9b593ef7e2803347bf77ad6d4c410e2, type: 3}
+    casesCount: 3
+    sceneName: HW-F4S03-UI
+    isTitleOnly: 0
+  - problemId: 404
+    title: "\u0641\u062D\u0635 \u0633\u0644\u0627\u0645\u0629 \u0645\u0648\u062A\u0648\u0631
+      \u0645\u0631\u0648\u062D\u0629 \u0627\u0644\u0648\u062D\u062F\u0629 \u0627\u0644\u062F\u0627\u062E\u0644\u064A\u0629 "
+    problemReportTitle: {fileID: 21300000, guid: f132cd662e227454091cfdfd942aeccb, type: 3}
+    casesCount: 4
+    sceneName: HW-F4S04-UI
+    isTitleOnly: 0
+  - problemId: 405
+    title: "\u0641\u062D\u0635 \u0633\u0644\u0627\u0645\u0629 \u0645\u0648\u062A\u0648\u0631
+      \u0645\u0631\u0648\u062D\u0629 \u0627\u0644\u0648\u062D\u062F\u0629 \u0627\u0644\u062E\u0627\u0631\u062C\u064A\u0629"
+    problemReportTitle: {fileID: 21300000, guid: 818e83a77cb3c4648b2d308159e0514d, type: 3}
+    casesCount: 5
+    sceneName: HW-F4S05-UI
+    isTitleOnly: 0
+  - problemId: 406
+    title: "\u0641\u062D\u0635 \u0627\u0644\u062A\u0633\u0631\u064A\u0628 \u0644\u062F\u0627\u0626\u0631\u0629
+      \u0627\u0644\u0641\u0631\u064A\u0648\u0646"
+    problemReportTitle: {fileID: 21300000, guid: 4537c86c2dc68424fbc8d5f8f0786ab4, type: 3}
+    casesCount: 12
+    sceneName: HW-F4S06-UI
+    isTitleOnly: 0
+  - problemId: 407
+    title: "\u0648\u062C\u0648\u062F \u0633\u062F\u062F \u0628\u062F\u0627\u0626\u0631\u0629
+      \u0627\u0644\u0641\u0631\u064A\u0648\u0646"
+    problemReportTitle: {fileID: 21300000, guid: b6b16f1ce171d124d85b69e5e6c6e004, type: 3}
+    casesCount: 6
+    sceneName: HW-F4S07-UI
+    isTitleOnly: 0
+  - problemId: 408
+    title: "\u0648\u062C\u0648\u062F \u062A\u0641\u0648\u064A\u062A \u0628\u0627\u0644\u0636\u0627\u063A\u0637
+      \u0623\u0648 \u062A\u0639\u0644\u064A\u0642 \u0628\u0627\u0644\u062C\u0632\u0621
+      \u0627\u0644\u062F\u0627\u062E\u0644\u064A \u0644\u0639\u0627\u0643\u0633 \u0627\u0644\u062F\u0648\u0631\u0629"
+    problemReportTitle: {fileID: 21300000, guid: 87fcf429a2e1bbc4b80d820ec90857a9, type: 3}
+    casesCount: 2
+    sceneName: HW-F4S08-UI
+    isTitleOnly: 0
+  - problemId: 409
+    title: "\u0641\u062D\u0635 \u062F\u0642\u0629 \u0627\u0633\u062A\u062C\u0627\u0628\u0629
+      \u0641\u0635\u0644 \u0648\u062A\u0634\u063A\u064A\u0644 \u0627\u0644\u0648\u062D\u062F\u0629
+      \u0627\u0644\u062E\u0627\u0631\u062C\u064A\u0629 \u0639\u0646\u062F \u062A\u062D\u0642\u064A\u0642
+      \u062F\u0631\u062C\u0629 \u0627\u0644\u062D\u0631\u0627\u0631\u0629 \u0627\u0644\u0645\u0636\u0628\u0648\u0637\u0629"
+    problemReportTitle: {fileID: 21300000, guid: c937679438ac4b74b951f69900407728, type: 3}
+    casesCount: 4
+    sceneName: HW-F4S09-UI
+    isTitleOnly: 0
+  - problemId: 410
+    title: "\u0641\u062D\u0635 \u0623\u0648 \u0645\u0631\u0627\u062C\u0639\u0629
+      \u062A\u0646\u0627\u0633\u0628 \u0642\u062F\u0631\u0629 \u062C\u0647\u0627\u0632
+      \u0627\u0644\u062A\u0643\u064A\u064A\u0641 \u0645\u0639 \u0627\u0644\u0645\u0633\u0627\u062D\u0629
+      \u0648 \u0627\u0644\u0623\u062D\u0645\u0627\u0644 \u0627\u0644\u062D\u0631\u0627\u0631\u064A\u0629"
+    problemReportTitle: {fileID: 21300000, guid: a617eaf4f201bff46a927b0c93d2e1ca, type: 3}
+    casesCount: 2
+    sceneName: HW-F4S10-UI
+    isTitleOnly: 0

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba8857f680ae3ab449b3374bb4bdbd94, type: 3}
+  m_Name: 4
+  m_EditorClassIdentifier: 
+  orderNumber: 4
+  title: "\u0645\u0641\u062A\u0627\u062D \u0628\u0644\u062F\u064A "
+  longTitle: 
+  icon: {fileID: 21300000, guid: 81660bc4ee4f4bc4093d89f82fbcc659, type: 3}
+  pages:
+  - content: "\u0645\u0641\u062A\u0627\u062D \u064A\u0633\u062A\u062E\u062F\u0645
+      \u0644\u0641\u0643 \u0648\u0631\u0628\u0637 \u0627\u0644\u0635\u0648\u0627\u0645\u064A\u0644\u060C
+      \u0648\u0644\u0647 \u0623\u0643\u062B\u0631 \u0645\u0646 \u0645\u0642\u0627\u0633
+      \u0628\u062D\u064A\u062B \u064A\u0633\u062A\u062E\u062F\u0645 \u0627\u0644\u0645\u0642\u0627\u0633
+      \u0627\u0644\u0645\u0646\u0627\u0633\u0628 \u0644\u0644\u0635\u0627\u0645\u0648\u0644\u0629
+      \u0627\u0644\u0645\u0631\u0627\u062F \u0641\u0643\u0647\u0627 \u0623\u0648
+      \u0631\u0628\u0637\u0647\u0627."
+    sound: {fileID: 8300000, guid: 34207277bba88be449f29a338915be63, type: 3}
