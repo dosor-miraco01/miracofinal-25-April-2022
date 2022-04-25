@@ -4,5 +4,23 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/_Sameh/00 MainMenu.unity
+    guid: c8529c52084e7a645aed3cd06eaad6d0
+  - enabled: 1
+    path: Assets/Scenes/_Sameh/01 Learning.unity
+    guid: 1c023aad4172e1741b306dce9a065a93
+  - enabled: 1
+    path: Assets/Scenes/_Sameh/02 Animation.unity
+    guid: 5ecda9185177d314a951a0c2318409d1
+  - enabled: 1
+    path: Assets/Scenes/_Sameh/03 Problem.unity
+    guid: 35070730b6876034a87cb3a834f6a66b
+  - enabled: 1
+    path: Assets/Scenes/_Sameh/_ProblemsReport.unity
+    guid: fc404e331dcecf34ab6c88919cd36dbb
+  - enabled: 1
+    path: Assets/Models/AC-Project-main/Scenes/Indoor Definition.unity
+    guid: d763b928b3718a34b99d68a3d502c432
   m_configObjects: {}
